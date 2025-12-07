@@ -56,13 +56,14 @@ This project demonstrates a **frontend web application** whose builds and tests 
 ## Screenshots of Azure Devops:
 
 1. **Build Pipeline**
+   <img width="1239" height="1182" alt="image" src="https://github.com/user-attachments/assets/1bdb8d29-10b0-4562-96f9-af3fef8e041b" />
    <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/37f90bbe-ff1b-4f7c-8cd1-3a661a0a857f" />
    <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/d1253a6b-24c3-4151-8319-3a97d9b0850d" />
 
-2. **Release Pipeline**
+3. **Release Pipeline**
     <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/e4c11769-ab73-4e3c-9012-d0a48b54d554" />
     <img width="1444" height="630" alt="image" src="https://github.com/user-attachments/assets/612c300e-9bad-4d10-a762-72738d9bf01b" />
 
-3. **Azure Repository added too**
+4. **Azure Repository added too**
    <img width="1444" height="1158" alt="image" src="https://github.com/user-attachments/assets/35c78710-aab0-4325-83a1-dd15194c77a5" />
 
